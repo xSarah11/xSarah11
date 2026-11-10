@@ -1,4 +1,8 @@
 
+![Sara Aljohani Banner](./sara-banner.png)
+
+---
+
 # 👋 Hi, I'm Sara Aljohani
 
 ### Cybersecurity Student | Networks & Security | Cloud Security
