@@ -85,5 +85,21 @@ An AI-powered financial fraud detection project using Python and Random Forest.
 - **GitHub:** [@xSarah11](https://github.com/xSarah11)
 
 ---
+## 📊 GitHub Activity
 
+Explore my repositories, projects, and coding contributions.
+
+- 🔹 Network Security Projects
+- 🔹 Python & AI Projects
+- 🔹 Cybersecurity Projects
+- 🔹 Cloud & OT/ICS Interests
+
+[View My GitHub Repositories](https://github.com/xSarah11?tab=repositories)
+
+---
+
+## 🌐 Let's Connect
+
+Feel free to explore my repositories and connect with me!
 ⭐ Always Learning | Always Building | Always Securing
+
