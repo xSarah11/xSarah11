@@ -62,14 +62,14 @@ I enjoy exploring emerging technologies, developing practical skills, and buildi
 
 ## 🚀 Featured Projects
 
-### 🔹 Secure Network Design
-Secure network architecture and simulation using Cisco Packet Tracer, including VLANs, DMZ, firewall, and network segmentation.
+### 🔹 [Secure Network Design](https://github.com/xSarah11/secure-network-design)
+Segmented campus network in Cisco Packet Tracer: 6 VLANs, a DMZ for public servers, and a Cisco ASA firewall at the edge.
 
-### 🔹 ReliQ – Interactive Learning Platform
-An educational platform designed to help students explore Moon and Mars rovers through interactive maps, 3D models, AI chatbot, and missions.
+### 🔹 [ReliQ – Interactive Learning Platform](https://github.com/xSarah11/ReilQ)
+Team project: an educational platform that helps students explore Moon and Mars rovers through interactive maps, 3D models, an AI chatbot, and missions.
 
-### 🔹 AI Financial Fraud Detection
-An AI-powered financial fraud detection project using Python and Random Forest.
+### 🔹 [AI Financial Fraud Detection](https://github.com/xSarah11/ai-financial-fraud-detection)
+Machine learning model (Python, Random Forest) that flags fraudulent financial transactions and handles the rare-fraud imbalance problem.
 
 ---
 
@@ -89,19 +89,6 @@ An AI-powered financial fraud detection project using Python and Random Forest.
 - **GitHub:** [@xSarah11](https://github.com/xSarah11)
 
 ---
-## 📊 GitHub Activity
-
-Explore my repositories, projects, and coding contributions.
-
-- 🔹 Network Security Projects
-- 🔹 Python & AI Projects
-- 🔹 Cybersecurity Projects
-- 🔹 Cloud & OT/ICS Interests
-
-[View My GitHub Repositories](https://github.com/xSarah11?tab=repositories)
-
----
-
 ## 🌐 Let's Connect
 
 Feel free to explore my repositories and connect with me!
